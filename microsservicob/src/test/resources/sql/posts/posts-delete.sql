@@ -1,0 +1,3 @@
+DELETE
+FROM POST
+WHERE id > 0;
